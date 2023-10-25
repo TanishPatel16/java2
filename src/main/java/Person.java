@@ -1,7 +1,6 @@
-public class Person {
+public class Person extends Animal {
     private String firstName;
     private String lastName;
-    private byte age;
     private long ssn;
     static int count = 0;
 
