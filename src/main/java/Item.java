@@ -16,4 +16,8 @@ public class Item {
     public int getQuantity(){
         return this.quantity;
     }
+
+    public String getName(){
+        return this.name;
+    }
 }
